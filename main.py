@@ -1,7 +1,7 @@
 import flask
 import pandas as pd
 
-data_csv_file = 'task_data.csv'
+data_csv_file = 'data.csv'
 sample_count = 400
 
 
